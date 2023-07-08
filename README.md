@@ -22,5 +22,3 @@ The Starting page contains the various components required to simulate tcp conne
 ![image](https://user-images.githubusercontent.com/100370415/235797058-df4dda63-de5a-4947-9704-732e147364c9.png)
 
 
-#Sliding Window
-
